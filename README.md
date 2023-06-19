@@ -4,7 +4,7 @@
 
  Gerando um Arquivo csv
 
-Exercício proposto no Bootcamp de Java da [MJV](https://https://www.mjvinnovation.com/pt-br/ "Site da MJV").
+Exercício proposto no Bootcamp de Java da [MJV](https://academy.mjvinnovation.com/br/mjvschool/ "Site da MJV").
 
 A aplicação consiste na geração de cadastro de informações de pessoas e gerar uma lista no formato csv.
  
